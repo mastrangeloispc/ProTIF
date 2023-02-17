@@ -9,7 +9,8 @@ div{
 @media (min-width: 576px){
     #mifoto{
         position: absolute;
-        width: 15%;
+        border-color: #000408;
+        width: 20%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 2%;
@@ -19,7 +20,7 @@ div{
 @media (max-width: 576px){
     #mifoto{
         position: absolute;
-        width: 30%;
+        width: 50%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 30%;
