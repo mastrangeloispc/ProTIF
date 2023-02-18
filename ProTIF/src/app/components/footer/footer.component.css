@@ -1,5 +1,6 @@
 .row{
-    background-color: #a1b5cb;
+    background-color: #51a8b1;
+    
 }
 footer{
     color:aliceblue;
@@ -7,4 +8,5 @@ footer{
     display: flex;
     flex-direction: column;
     text-align: center;
+    
 }
